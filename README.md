@@ -2,7 +2,7 @@
 
 An AI-powered interview preparation platform that helps candidates practice interviews and receive AI-generated feedback. The application uses a React frontend, a Node.js/Express backend, MongoDB for persistence, and Google Gemini for AI-powered processing.
 
-> **Repository:** https://github.com/Singh-Devanand/Interview_Ai_Project
+> **Repository:** https://github.com/Coder-Akanksha/Interview_Ai_Project
 
 ## Table of Contents
 
@@ -339,8 +339,8 @@ Potential improvements, depending on project goals:
 
 ## 👨‍💻 Author
 
-**Devanand Singh**  
-GitHub: [@Singh-Devanand](https://github.com/Singh-Devanand)
+**Akanksha Maurya**  
+GitHub: [@Akanksha Maurya](https://github.com/Coder-Akanksha)
 
 ---
 
