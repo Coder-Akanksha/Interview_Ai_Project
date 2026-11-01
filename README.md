@@ -245,8 +245,7 @@ Use the variable name expected by the Axios configuration in your frontend. Vite
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Singh-Devanand/Interview_Ai_Project.git
-cd Interview_Ai_Project
+git clone https://github.com/Coder-Akanksha/Interview_Ai_Project.git cd Interview_Ai_Project
 ```
 
 ### 2. Install and start the backend
